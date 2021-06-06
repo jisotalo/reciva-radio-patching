@@ -118,7 +118,7 @@ The radio is configured to connect to our PC instead of Reciva server when updat
 
 2. Enter following settings
     * Patch file
-      - `RecivaServer\patches\sharpfin-base_0.3.patch``
+      - `files\RecivaServer\patches\sharpfin-base_0.3.patch``
     * DNS server
       - `8.8.8.8` (Google)
       - Note: The textbox is empty at start (it only has a placeholder 8.8.8.8)
@@ -126,7 +126,7 @@ The radio is configured to connect to our PC instead of Reciva server when updat
       - Your PC IP used in previous steps
       - In this example `192.168.5.16`
 
-![image](https://user-images.githubusercontent.com/13457157/120915774-56ee5080-c6ae-11eb-9e6e-f2c467ff4534.png)
+![image](https://user-images.githubusercontent.com/13457157/120917774-c3228180-c6b9-11eb-83eb-cafd48f32381.png)
 
 
 8. Press Start button > The server starts listening
@@ -230,6 +230,7 @@ More info at [http://www.megapico.co.uk/sharpfin/mediaserver.html](http://www.me
 
 Now that the radio has Sharpfin installed, you can listen to internet radios by editing presets using web browser.
 
+
 ### Adding a new preset to empty slot
 
 1. Navigate to your radio using web browser
@@ -237,23 +238,6 @@ Now that the radio has Sharpfin installed, you can listen to internet radios by 
 2. Press Store under presets
 
 ![image](https://user-images.githubusercontent.com/13457157/120916520-be0e0400-c6b2-11eb-882a-15eb3da5a51d.png)
-
-3. Press 1-20
-
-4. Press edit (pen) button under preset you want to modify.
-
-5. Edit settings and press Store.
-
-6. Reboot radio
-
-
-### Updating an existing preset
-
-1. Navigate to your radio using web browser
-
-2. Press Manage under presets
-
-![image](https://user-images.githubusercontent.com/13457157/120916484-9028bf80-c6b2-11eb-9530-049290a9ce3f.png)
 
 3. Enter settings and press store
     * Swiss Jazz
@@ -267,6 +251,23 @@ Now that the radio has Sharpfin installed, you can listen to internet radios by 
 
 5. After radio has started, press button 1 -> Swiss Jazz starts playing.
 
+
+
+### Updating an existing preset
+
+1. Navigate to your radio using web browser
+
+2. Press Manage under presets
+
+![image](https://user-images.githubusercontent.com/13457157/120916484-9028bf80-c6b2-11eb-9530-049290a9ce3f.png)
+
+3. Press 1-20
+
+4. Press edit (pen) button under preset you want to modify.
+
+5. Edit settings and press Store.
+
+6. Reboot radio
 
 ## Telnet connection
 
