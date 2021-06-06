@@ -15,7 +15,22 @@ Also some own notes how to do stuff with it :)
 
 ---
 ## Table of contents
-- TODO
+- [Patching the Tangent Quattro Reciva radio](#patching-the-tangent-quattro-reciva-radio)
+  * [Table of contents](#table-of-contents)
+  * [Why?](#why-)
+  * [Hacking](#hacking)
+  * [Step 1 - Installing Sharpfin (patching the radio)](#step-1---installing-sharpfin--patching-the-radio-)
+    + [IP configuration](#ip-configuration)
+    + [Firmware update / patching](#firmware-update---patching)
+    + [Updating the Sharpfin to 2.0](#updating-the-sharpfin-to-20)
+    + [Installing Sharpfin streaming media server by David at megapico.co.uk](#installing-sharpfin-streaming-media-server-by-david-at-megapicocouk)
+  * [Managing presets](#managing-presets)
+    + [Adding a new preset to empty slot](#adding-a-new-preset-to-empty-slot)
+    + [Updating an existing preset](#updating-an-existing-preset)
+  * [Telnet connection](#telnet-connection)
+  * [Disabling radio write protect](#disabling-radio-write-protect)
+  * [Editing configuration](#editing-configuration)
+  * [Links](#links)
 
 --- 
 ## Why?
