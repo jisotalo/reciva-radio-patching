@@ -1,8 +1,10 @@
 # Patching the Tangent Quattro Reciva radio
-Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet radio access now after the Reciva was shut down.
+Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet radio access now after the Reciva was shut down. Also some own notes how to do stuff with it.
 
+![image](https://user-images.githubusercontent.com/13457157/120917563-94f07200-c6b8-11eb-931d-148cb98b29a5.png)
 
-Also some own notes how to do stuff with it :)
+*No more 17 000 stations...* 
+
 
 **What we can get**
 
@@ -13,7 +15,12 @@ Also some own notes how to do stuff with it :)
 
 ![image](https://user-images.githubusercontent.com/13457157/120917030-ab48fe80-c6b5-11eb-8bb4-8c1988ffc9cd.png)
 
----
+## ---- NOTE ----
+
+There is always a chance something goes wrong. I take no responsibility.
+
+However, I have done this to two Tangent Quattros without any problems.
+
 ## Table of contents
 - [Patching the Tangent Quattro Reciva radio](#patching-the-tangent-quattro-reciva-radio)
   * [Table of contents](#table-of-contents)
