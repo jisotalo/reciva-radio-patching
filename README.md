@@ -316,6 +316,64 @@ Use with your own risk. See https://www.sharpfin.org/index.php/Config.txt_File
 - Reboot the radio
 
 
+## Useful configs for Tangent Quattro
+Might not work to other models and cause bricking..
+ 
+ 
+Source for most of these: 
+http://iradioforum.net/forum/index.php?topic=2115
+ 
+ 
+**Config file**
+ 
+`/root/hwconfig/config931.txt`
+ 
+ **Keep wifi powered when radio is in standby** 
+ 
+Faster connect when waking the radio up + fixed some random wifi problems for me.
+ 
+ ```
+Option:
+wifi-standby-power-menu
+on
+ ````
+ 
+ 
+ **Increase preset number** 
+ 
+At least 12 presets seem to work
+ 
+ ```
+Option:
+max-presets
+40
+ ````
+ 
+ 
+ 
+ **Show presets under menu->stations** 
+ 
+Possible to use presets 7..12
+ 
+ ```
+Option:
+presets-as-menu-items
+on
+ ````
+ 
+ 
+ 
+ 
+ **When entering text, pressing reply accepts the text** 
+ 
+Same as END selection at "keyboard"
+ 
+ ```
+Option:
+reply-button-exits-spinner
+on
+ ````
+ 
 ## Links
 
 Just some links I have saved
