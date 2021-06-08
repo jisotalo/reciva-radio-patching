@@ -378,14 +378,15 @@ on
 
 Just some links I have saved
 
-- https://www.sharpfin.org/index.php/Main_Page
-- https://www.sharpfin.org/index.php/Config.txt_File
-- http://iradioforum.net/forum/index.php?topic=193.0
-- http://www.g3gg0.de/wordpress/reversing/reciva-encryption-on-reciva-barracuda/
-- https://web.archive.org/web/20110808021251/http://copper.reciva.com/sources/
-- http://internetradiohack.blogspot.com/2006/
-- http://internetradiohack.blogspot.com/2007/
-- https://www.sharpfin.org/index.php?title=Enabling_Login
-- http://www.megapico.co.uk/sharpfin/mediaserver.html
-- http://iradioforum.net/sharpfin/
-- https://web.archive.org/web/20100516002845/groups.google.com/group/sharpfin
+- https://www.sharpfin.org/index.php/Main_Page <- sharpfin wiki
+- https://www.sharpfin.org/index.php/Config.txt_File <- config file stuff
+- http://iradioforum.net/forum/index.php?topic=193.0 <- sharpfin archive & files
+- http://www.g3gg0.de/wordpress/reversing/reciva-encryption-on-reciva-barracuda/ <- some hacking
+- https://web.archive.org/web/20110808021251/http://copper.reciva.com/sources/ <- some reciva source stuff
+- http://internetradiohack.blogspot.com/2006/ <- some hacking #1
+- http://internetradiohack.blogspot.com/2007/ <- some hacking #2
+- https://www.sharpfin.org/index.php?title=Enabling_Login <- how to enable telnet
+- http://www.megapico.co.uk/sharpfin/mediaserver.html <- mediaserver
+- http://iradioforum.net/sharpfin/ <- sharpfin files
+- https://web.archive.org/web/20100516002845/groups.google.com/group/sharpfin <- old google group
+- http://iradioforum.net/forum/index.php?topic=2120.0 <- list of keymaps
