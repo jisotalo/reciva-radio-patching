@@ -330,3 +330,4 @@ Just some links I have saved
 - https://www.sharpfin.org/index.php?title=Enabling_Login
 - http://www.megapico.co.uk/sharpfin/mediaserver.html
 - http://iradioforum.net/sharpfin/
+- https://web.archive.org/web/20100516002845/groups.google.com/group/sharpfin
