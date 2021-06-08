@@ -312,7 +312,7 @@ Use with your own risk. See https://www.sharpfin.org/index.php/Config.txt_File
 - Hit <ESC> to leave Insert Mode and enter Command mode
 - `:w<ENTER>` To write current file (if you are sure and wish to save it)
 - `:q!<ENTER>` To exit `vi`
-- Write protect the drive with `sync;mount / -oro,remount`
+- Write protect the drive with `sync;mount / -oro,remount` (or if you get error, without sync is then OK: `mount / -oro,remount`)
 - Reboot the radio
 
 
