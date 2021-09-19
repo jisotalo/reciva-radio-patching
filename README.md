@@ -157,7 +157,9 @@ dns: query for 17.5.168.192.in-addr.arpa
 dns: query for 17.5.168.192.in-addr.arpa
 ```
 
-10. Answer `YES` to confirmation. If you have problems to get to this point, try to check the proxy mode in Reciva patcher
+**NOTE:** If you have problems to get to this point, try checking the "proxy HTTP" Reciva Patcher. See this issue: https://github.com/jisotalo/reciva-radio-patching/issues/1
+
+10. Answer `YES` to confirmation. 
 
 
 ![image](https://user-images.githubusercontent.com/13457157/120916814-548ef500-c6b4-11eb-9f6b-d8e9d0852e75.png)
