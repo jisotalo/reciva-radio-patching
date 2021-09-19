@@ -11,6 +11,7 @@ Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet rad
 - Telnet connection to the radio
 - [Sharpfin](https://www.sharpfin.org/) installation to the radio
 - Possible to do change presets and control radio using web browser
+  - See https://github.com/jisotalo/reciva-radio-stations-sqlite for station list
 - [Internet radio plugin by David at megapico.co.uk](http://www.megapico.co.uk/sharpfin/mediaserver.html)
 
 ![image](https://user-images.githubusercontent.com/13457157/120917030-ab48fe80-c6b5-11eb-8bb4-8c1988ffc9cd.png)
@@ -239,7 +240,7 @@ Now that the radio has Sharpfin installed, you can listen to internet radios by 
 
 ![image](https://user-images.githubusercontent.com/13457157/120916520-be0e0400-c6b2-11eb-882a-15eb3da5a51d.png)
 
-3. Enter settings and press store
+3. Enter settings and press store (see https://github.com/jisotalo/reciva-radio-stations-sqlite for stations)
     * Swiss Jazz
     * http://stream.srg-ssr.ch/m/rsj/mp3_128
     * 1
