@@ -116,6 +116,7 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Awesome tool by [dliw](http://iradioforum.net/forum/index.php?topic=2968.0) to patch the radio
     * Source: [http://iradioforum.net/forum/index.php?topic=2968.0](http://iradioforum.net/forum/index.php?topic=2968.0)
     * Why administrator? Using the DNS port 54 requires admin privileges
+    * NOTE: There is also Linux version available: http://iradioforum.net/forum/index.php?topic=2968.0
 
 2. Enter following settings
     * Patch file
@@ -142,7 +143,7 @@ gui: servers started...
 9. In radio, navigate to 
     * `Menu -> Configure -> Upgrade Firmware`
 
-10. The Reciva Pather should display some info in log similar to
+10. The Reciva Patcher should display some info in log similar to
 ```
 dns: query for p1.h1.uk.reciva.com
 dns: query for p1.h1.uk.reciva.com
@@ -156,7 +157,7 @@ dns: query for 17.5.168.192.in-addr.arpa
 dns: query for 17.5.168.192.in-addr.arpa
 ```
 
-10. Answer `YES` to confirmation
+10. Answer `YES` to confirmation. If you have problems to get to this point, try to check the proxy mode in Reciva patcher
 
 
 ![image](https://user-images.githubusercontent.com/13457157/120916814-548ef500-c6b4-11eb-9f6b-d8e9d0852e75.png)
