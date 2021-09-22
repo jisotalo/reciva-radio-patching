@@ -14,7 +14,7 @@ Note that you will probably see **"Reciva gateway error"** messages now as reciv
 ---
 
 **What we can get**
-
+- Working internet radio even after the reciva.com has disappeared
 - Telnet connection to the radio
 - [Sharpfin](https://www.sharpfin.org/) installation to the radio
 - Possible to do change presets and control radio using web browser
