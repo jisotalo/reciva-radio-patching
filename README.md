@@ -147,12 +147,13 @@ gui: trying to determine IP.
 dns: server is running...
 gui: servers started...
 ```
-    
+  
+9. **IMPORTANT (22.09.2021 update):** Take radio power cable out and back in so that radio restarts totally. After startup, press back if you see reciva gatetway error. Then continue. This needs to be done!
 
-9. In radio, navigate to 
+10. In radio, navigate to 
     * `Menu -> Configure -> Upgrade Firmware`
 
-10. The Reciva Patcher should display some info in log similar to
+11. The Reciva Patcher should display some info in log similar to
 ```
 dns: query for p1.h1.uk.reciva.com
 dns: query for p1.h1.uk.reciva.com
@@ -166,12 +167,12 @@ dns: query for 17.5.168.192.in-addr.arpa
 dns: query for 17.5.168.192.in-addr.arpa
 ```
 
-10. Answer `YES` to confirmation. 
+12. Answer `YES` to confirmation. 
 
 
 ![image](https://user-images.githubusercontent.com/13457157/120916814-548ef500-c6b4-11eb-9f6b-d8e9d0852e75.png)
 
-11. The radio should now begin to do a firmware update
+13. The radio should now begin to do a firmware update
     * **NOTE:** Sometimes the first firmware upgrade does nothing (the radio only reboots). Just do it again, until the following stuff happens:
 
 ![patching](https://user-images.githubusercontent.com/13457157/120916963-5311fc80-c6b5-11eb-8fb7-37872f63f683.gif)
@@ -182,18 +183,18 @@ dns: query for 17.5.168.192.in-addr.arpa
 
 *Reciva Pather log when patching*
 
-12. After update the radio will reboot automatically.
+14. After update the radio will reboot automatically.
 
-13. Change radio IP settings back to normal, so the internet connection works
+15. Change radio IP settings back to normal, so the internet connection works
     * Probably/usually just `Auto (DHCP)` to `YES`
 
-14. Check your radios new IP address by navigating to 
+16. Check your radios new IP address by navigating to 
     * `Menu -> Configure -> Network Config -> View Config -> IP Address`
     * In this example it's `192.168.5.13`
 
     ![image](https://user-images.githubusercontent.com/13457157/120916987-6fae3480-c6b5-11eb-862b-a41c15855d85.png)
 
-13. Open web browser and navigate to your radio IP. You should see Sharpfin frontpage
+17. Open web browser and navigate to your radio IP. You should see Sharpfin frontpage
 
 ![image](https://user-images.githubusercontent.com/13457157/120916088-27404800-c6b0-11eb-9811-6a3bacb1f652.png)
 
