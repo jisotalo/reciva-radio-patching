@@ -6,6 +6,13 @@ Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet rad
 *No more 17 000 stations...* 
 
 
+## UPDATE 22.09.2021
+The guide and patching software is updated. Should work better now after reciva.com is down.
+
+Note that you will probably see **"Reciva gateway error"** messages now as reciva.com is no longer available. Just press back button and don't worry about it.
+
+---
+
 **What we can get**
 
 - Telnet connection to the radio
@@ -127,9 +134,11 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Own IP
       - Your PC IP used in previous steps
       - In this example `192.168.5.16`
-
-![image](https://user-images.githubusercontent.com/13457157/120917774-c3228180-c6b9-11eb-83eb-cafd48f32381.png)
-
+    - Full DNS redirect **NEW 22.09.2021**
+      - Check this checkbox!!
+   
+   
+![image](https://user-images.githubusercontent.com/13457157/134288020-d442a187-c7e5-4a14-acd8-25e264e713d7.png)
 
 8. Press Start button > The server starts listening
 
@@ -156,8 +165,6 @@ dns: query for p1.h1.uk.reciva.com
 dns: query for 17.5.168.192.in-addr.arpa
 dns: query for 17.5.168.192.in-addr.arpa
 ```
-
-**NOTE:** If you have problems to get to this point, try checking the "proxy HTTP" in Reciva Patcher. See this issue: https://github.com/jisotalo/reciva-radio-patching/issues/1
 
 10. Answer `YES` to confirmation. 
 
