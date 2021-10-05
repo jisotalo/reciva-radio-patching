@@ -206,7 +206,7 @@ dns: query for 17.5.168.192.in-addr.arpa
 
 ### Updating the Sharpfin to 2.0
 
-**IMPORTANT NOTE: If you have IPdio mini radio, do not update to v. 2.0. Use older versio instead (see: https://github.com/jisotalo/reciva-radio-patching/issues/2)**
+**IMPORTANT NOTE: If you have IPdio mini radio, do not update to v. 2.0. Stay at older version instead (see: https://github.com/jisotalo/reciva-radio-patching/issues/2)**
 
 1. Go `Admin Home -> Install addon` at the web browser
 
