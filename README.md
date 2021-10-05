@@ -129,8 +129,8 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Patch file
       - `files\RecivaServer\patches\sharpfin-base_0.3.patch``
     * DNS server
-      - `8.8.8.8` (Google)
-      - Note: The textbox is empty at start (it only has a placeholder 8.8.8.8)
+      - `8.8.8.8` (Google) 
+      - *--------------->* Note: The textbox is empty at start (it only has a placeholder 8.8.8.8) *<---------------*
     * Own IP
       - Your PC IP used in previous steps
       - In this example `192.168.5.16`
@@ -147,7 +147,11 @@ gui: trying to determine IP.
 dns: server is running...
 gui: servers started...
 ```
-  
+
+
+**NOTE: It seems that after this, you probably need to press the UPDATE button at RecivaServer. Click it just in case.** See issue: https://github.com/jisotalo/reciva-radio-patching/issues/2#issuecomment-933028642
+
+
 9. **IMPORTANT (22.09.2021 update):** Take radio power cable out and back in so that radio restarts totally. After startup, press back if you see reciva gatetway error. Then continue. This needs to be done!
 
 10. In radio, navigate to 
