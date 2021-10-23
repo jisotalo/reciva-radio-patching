@@ -132,7 +132,7 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Patch file
       - **ONLY for IPdio or IPdio Mini radios:** 
         - `files\RecivaServer\patches\sharpfin-base_0.3_IPdio.patch`
-        - Deleted other languages than english and german to get enough space (See [issue #2](https://github.com/jisotalo/reciva-radio-patching/issues/2#issuecomment-947762485))
+        - Deletes other languages than english and german from radio to get enough space (See [issue #2](https://github.com/jisotalo/reciva-radio-patching/issues/2#issuecomment-947762485))
         - Thank you [ymienert](https://github.com/ymienert), [Trashwarez](https://github.com/Trashwarez) and all others for contribution!
       - **For all other radios (Tangent Quattro etc.):** 
         - `files\RecivaServer\patches\sharpfin-base_0.3.patch`
