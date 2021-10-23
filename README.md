@@ -5,6 +5,9 @@ Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet rad
 
 *No more 17 000 stations...* 
 
+## UPDATE 23.10.2021
+Updated patch file for IPdio radios. Should work now and unbrick previously failed installations too!
+
 
 ## UPDATE 22.09.2021
 The guide and patching software is updated. Should work better now after reciva.com is down.
@@ -127,9 +130,14 @@ The radio is configured to connect to our PC instead of Reciva server when updat
 
 2. Enter following settings
     * Patch file
-      - `files\RecivaServer\patches\sharpfin-base_0.3.patch``
+      - **ONLY for IPdio or IPdio Mini radios:** 
+        - `files\RecivaServer\patches\sharpfin-base_0.3_IPdio.patch`
+        - Deleted other languages than english and german to get enough space (See [issue #2](https://github.com/jisotalo/reciva-radio-patching/issues/2#issuecomment-947762485))
+        - Thank you [ymienert](https://github.com/ymienert), [Trashwarez](https://github.com/Trashwarez) and all others for contribution!
+      - **For all other radios (Tangent Quattro etc.):** 
+        - `files\RecivaServer\patches\sharpfin-base_0.3.patch`
     * DNS server
-      - `8.8.8.8` (Google) 
+      - `8.8.8.8` (Google)
       - *--------------->* Note: The textbox is empty at start (it only has a placeholder 8.8.8.8) *<---------------*
     * Own IP
       - Your PC IP used in previous steps
@@ -348,7 +356,7 @@ http://iradioforum.net/forum/index.php?topic=2115
  
  **Keep wifi powered when radio is in standby** 
  
-Faster connect when waking the radio up + fixed some random wifi problems for me.
+Faster connect when waking the radio up + fixed some random wifi problems for me. Add a menu under network configuration.
  
  ```
 Option:
@@ -371,7 +379,7 @@ max-presets
  
  **Show presets under menu->stations** 
  
-Possible to use presets 7..12
+Possible to use presets 7..12. Probably not working anymore as reciva is down.
  
  ```
 Option:
