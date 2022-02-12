@@ -5,14 +5,8 @@ Notes how to patch the Reciva radios (Tangent Quattro etc.) to have internet rad
 
 *No more 17 000 stations...* 
 
-## UPDATE 23.10.2021
-Updated patch file for IPdio radios. Should work now and unbrick previously failed installations too!
-
-
-## UPDATE 22.09.2021
-The guide and patching software is updated. Should work better now after reciva.com is down.
-
-Note that you will probably see **"Reciva gateway error"** messages now as reciva.com is no longer available. Just press back button and don't worry about it.
+## UPDATE 12.02.2022
+Updated mention and links to newer versions. 
 
 ---
 
