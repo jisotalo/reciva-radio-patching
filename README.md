@@ -411,3 +411,4 @@ Just some links I have saved
 - http://iradioforum.net/sharpfin/ <- sharpfin files
 - https://web.archive.org/web/20100516002845/groups.google.com/group/sharpfin <- old google group
 - http://iradioforum.net/forum/index.php?topic=2120.0 <- list of keymaps
+- https://logikir100.tripod.com/sharpfin.htm <- some old interesting page
