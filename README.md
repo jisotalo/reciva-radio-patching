@@ -126,7 +126,8 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Awesome tool by [dliw](http://iradioforum.net/forum/index.php?topic=2968.0) to patch the radio
     * Source: [http://iradioforum.net/forum/index.php?topic=2968.0](http://iradioforum.net/forum/index.php?topic=2968.0)
     * Why administrator? Using the DNS port 54 requires admin privileges
-    * NOTE: There is also Linux version available: http://iradioforum.net/forum/index.php?topic=2968.0
+    * NOTE: There is also **Linux version** available: http://iradioforum.net/forum/index.php?topic=2968.0
+    * NOTE: There are newer versions available in the link above. However I haven't tested those so the version in this repository is older.
 
 2. Enter following settings
     * Patch file
