@@ -412,3 +412,5 @@ Just some links I have saved
 - https://web.archive.org/web/20100516002845/groups.google.com/group/sharpfin <- old google group
 - http://iradioforum.net/forum/index.php?topic=2120.0 <- list of keymaps
 - https://logikir100.tripod.com/Vistron.htm <- some old VERY interesting page
+- https://logikir100.tripod.com/JTAG.htm <- How to unbrick the radio using JTAG
+                                               
