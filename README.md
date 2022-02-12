@@ -127,7 +127,9 @@ The radio is configured to connect to our PC instead of Reciva server when updat
     * Source: [http://iradioforum.net/forum/index.php?topic=2968.0](http://iradioforum.net/forum/index.php?topic=2968.0)
     * Why administrator? Using the DNS port 54 requires admin privileges
     * NOTE: There is also **Linux version** available: http://iradioforum.net/forum/index.php?topic=2968.0
-    * NOTE: There are newer versions available in the link above. However I haven't tested those so the version in this repository is older.
+    * NOTE: There are newer versions available in the link above. However I haven't tested those so the version in this repository is older. **If you have problems, try the newer version!**
+      *   https://leo.pfweb.eu/dl/C6op4 (Windows version) (last update: 18 December, 2021)
+      *   https://leo.pfweb.eu/dl/tLoDi    (Linux version) (last update: 18 December, 2021)
 
 2. Enter following settings
     * Patch file
